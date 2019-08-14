@@ -1,7 +1,9 @@
 # MyFlaskTest
 testing Flask on Windows
 
-- User'S Guide
+## Memos for Windows env
+
+- User's Guide
   - https://flask.palletsprojects.com/en/1.1.x/
 
 - Installation
@@ -31,3 +33,6 @@ set FLASK_ENV=
 flask run
 ```
 (On Windows, FLASK_ENV=development does not work correctly)
+
+- URL for test:
+  - http://localhost:5000/
